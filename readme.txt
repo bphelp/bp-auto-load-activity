@@ -2,9 +2,9 @@
 Contributors: @bphelp, @juanmaguerrero
 Tags: buddypress, activity stream
 Requires at least: WordPress 3.2.1 BuddyPress 1.5.1
-Tested up to: WordPress 3.5.1 +buddypress 1.7b1
+Tested up to: WordPress 3.5.1 BuddyPress 1.7
 License: GNU/GPL 2
-Stable tag: 0.9 beta
+Stable tag: 1.0
 
 This plugin will auto load more in the activity stream. 
 
@@ -26,8 +26,11 @@ None at the moment
 == Notes ==
 Needs work to display the message "There is no more activity to display" when you reach the end of the activity.
 Also there needs to be a dasboard setting so the CSS can be adjusted so the preoloader.gif is display correctly according to the users theme.
+
 == Changelog == 
 
+= 1.0 =
+* Updated readme.txt
 = 0.9 =
 * beta
 

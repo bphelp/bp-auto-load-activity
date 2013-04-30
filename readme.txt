@@ -2,9 +2,9 @@
 Contributors: @bphelp, @juanmaguerrero
 Tags: buddypress, activity stream
 Requires at least: WordPress 3.2.1 BuddyPress 1.5.1
-Tested up to: WordPress 3.5.1 BuddyPress 1.7
+Tested up to: WordPress 3.5.1 BuddyPress 1.7.1
 License: GNU/GPL 2
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin will auto load more in the activity stream. 
 
@@ -29,8 +29,12 @@ Also there needs to be a dasboard setting so the CSS can be adjusted so the preo
 
 == Changelog == 
 
+= 1.1 =
+Tested with WP 3.5.1 and BP 1.7.1
+
 = 1.0 =
 * Updated readme.txt
+
 = 0.9 =
 * beta
 

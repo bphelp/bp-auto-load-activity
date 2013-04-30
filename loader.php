@@ -3,9 +3,9 @@
 Plugin Name: BP Auto Load Activity
 Plugin URI: http://wordpress.com
 Description: This plugin will auto load more in the activity stream
-Version: 1.0
+Version: 1.1
 Requires at least: WordPress 3.2.1 / BuddyPress 1.5.1
-Tested up to: WordPress 3.5.1 / BuddyPress 1.7
+Tested up to: WordPress 3.5.1 / BuddyPress 1.7.1
 License: GNU/GPL 2
 Author: @bphelp
 Author URI: http://wordpress.com
